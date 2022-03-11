@@ -181,6 +181,7 @@ body{
 .proyectos-videos:hover{
     opacity: 1;
     transition: all 1s;
+    transform: scale(1.1, 1.1);
 }
 .contenedor-proyectos{
     display: flex;
